@@ -18,6 +18,9 @@ el análisis.
 
 ## Análisis
 Para edad 63 y tiempo 6 la probabilidad dió como resultado: 70.38 %
+
 Para edad 64 y tiempo 6 la probabilidad dió como resultado: 70.94 %
+
 Para edad 68 y tiempo 6 la probabilidad dió como resultado: 73.19 %
+
 Para edad 64 y tiempo 3 la probabilidad dió como resultado: 71.84 %
