@@ -1,4 +1,4 @@
-# Titulo
+# Explicación del Código
 El programa contiene un modelo que permite predecir la probabilidad que tiene
 una persona de morir en base a su edad y su tiempo de seguimiento en días.
 
