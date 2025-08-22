@@ -1,4 +1,4 @@
-##Información
+**Información
 El programa contiene un modelo que permite predecir la probabilidad que tiene
 una persona de morir en base a su edad y su tiempo de seguimiento en días.
 Manteniendo los días en 3 y aumentando la edad a partir de los 61 años la persona
